@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('deneme.jpg', 0)
+img = cv2.imread('deneme.jpg')
 
 cv2.imshow('Deneme Resmi',resim)
 
